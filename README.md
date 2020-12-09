@@ -1,7 +1,7 @@
 # weboldal1
-#eddigi munkáim:
+eddigi munkáim:
 
-#ko-papir-ollo:
+ko-papir-ollo:
 https://tamaspeto1234.github.io/ko-papir-ollo/
 
 todo-app:
