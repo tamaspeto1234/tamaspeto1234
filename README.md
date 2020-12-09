@@ -1,4 +1,4 @@
-#Üdv az oldalamon!
+Üdv az oldalamon!
 eddigi munkáim:
 
 ko-papir-ollo:
