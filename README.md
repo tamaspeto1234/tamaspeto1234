@@ -1,6 +1,6 @@
 # Üdv az oldalamon!
 
-## Eddigi munkáim:
+## Megtekintheti eddigi munkáimat:
 
 [kő-papír-olló](https://tamaspeto1234.github.io/ko-papir-ollo/)
 
