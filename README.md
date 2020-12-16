@@ -2,8 +2,10 @@
 
 ## Megtekintheti eddigi munkáimat:
 
-[kő-papír-olló](https://tamaspeto1234.github.io/ko-papir-ollo/)
+[Kő-Papír-Olló](https://tamaspeto1234.github.io/ko-papir-ollo/)
 
-[todo-app](https://tamaspeto1234.github.io/hooks-todo-app/)
+[Todo app](https://tamaspeto1234.github.io/hooks-todo-app/)
 
-[Glow(játék)](https://tamaspeto1234.github.io/glow/)
+[Glow (játék)](https://tamaspeto1234.github.io/glow/)
+
+[Deck of cards](https://tamaspeto1234.github.io/deck-of-cards/)
